@@ -1,0 +1,6 @@
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\bin\Debug\TabimProject.Model.dll
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\bin\Debug\TabimProject.Model.pdb
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\obj\Debug\TabimProject.Model.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\obj\Debug\TabimProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\obj\Debug\TabimProject.Model.dll
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.Model\obj\Debug\TabimProject.Model.pdb

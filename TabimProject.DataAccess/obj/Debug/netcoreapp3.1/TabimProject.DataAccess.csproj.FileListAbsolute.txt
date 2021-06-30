@@ -1,0 +1,15 @@
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.DataAccess.deps.json
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.DataAccess.dll
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.Model.dll
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.DataAccess.runtimeconfig.json
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.DataAccess.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.DataAccess.pdb
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\bin\Debug\netcoreapp3.1\TabimProject.Model.pdb
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.csproj.CopyComplete
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.dll
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.pdb
+C:\Users\ozlem\source\repos\TabimProject\TabimProject.DataAccess\obj\Debug\netcoreapp3.1\TabimProject.DataAccess.genruntimeconfig.cache
